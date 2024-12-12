@@ -1,3 +1,3 @@
 # TurboMaxitron.js
 
-Simple 3D library for javascript
+Simple 3D graphics library for javascript
