@@ -1,0 +1,15 @@
+{
+  "name": "turbomaxitron.js",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.2"
+  },
+  "dependencies": {
+    "tsc": "^2.0.4"
+  }
+}
